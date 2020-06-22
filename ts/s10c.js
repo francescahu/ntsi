@@ -22,4 +22,3 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var cheers = __importStar(require("./s10exp"));
 cheers.hello();
 cheers.goodbye();
-//# sourceMappingURL=s10c.js.map

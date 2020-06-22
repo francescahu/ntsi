@@ -12,4 +12,3 @@ function bye() {
     console.log('bye');
 }
 exports.goodbye = bye;
-//# sourceMappingURL=s10exp.js.map

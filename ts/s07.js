@@ -25,4 +25,3 @@ var Guy = /** @class */ (function () {
 }());
 var items = [new Guy('tom'), new Shadow];
 items.forEach(function (item) { return console.log(item.getName()); });
-//# sourceMappingURL=s07.js.map
